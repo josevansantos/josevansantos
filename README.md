@@ -8,8 +8,8 @@
 
  <div>
   <a href="https://github.com/josevansantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevansantos&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevansantos&hide=html&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josevansantos&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevansantos&hide=html&layout=compact&theme=dark"/>
 </div>
 
 
