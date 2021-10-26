@@ -20,10 +20,10 @@
 <br>
 <div align="center">
  <a href="https://github.com/josevansantos">
-   <img height="100em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josevansantos&repo=type-todo-list&theme=github_dark"/>
+   <img height="90em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josevansantos&repo=type-todo-list&theme=github_dark"/>
  </a>
  <a href="https://github.com/josevansantos">
-   <img height="100em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josevansantos&repo=finpe&theme=github_dark"/>
+   <img height="90em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josevansantos&repo=finpe&theme=github_dark"/>
  </a>
 </div>
 
