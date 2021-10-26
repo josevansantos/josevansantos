@@ -7,22 +7,16 @@
 
 ***
 <br>
-
- <span align="center">
+ <div>
    <img height="200px" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=josevansantos&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true"/>
-   <img height="200px"  width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevansantos&hide=html&layout=compact&theme=github_dark"/>
-</span>
+   <img  height="200px" width="auto" align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevansantos&hide=html&layout=compact&theme=github_dark"/>
+</div>
 
 ***
 <br>
-
-<div margin="5% 0">
- <span margin-top="5px">
-     <img height="143px"  width="auto" align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=josevansantos&repo=type-todo-list&theme=github_dark"/>
- 
-   <img height="143px"  width="auto" align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=josevansantos&repo=finpe&theme=github_dark"/>
- </span>
- 
- </div>
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=josevansantos&repo=type-todo-list&theme=github_dark"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=josevansantos&repo=finpe&theme=github_dark"/>
+</div>
 
 
