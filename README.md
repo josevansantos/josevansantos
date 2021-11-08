@@ -1,12 +1,27 @@
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Josevan Santos</h1>
+<div align="right">
+ <img src="https://raw.githubusercontent.com/josevansantos/josevansantos/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+</div>
 
-* Learning programming at [Rocketseat](https://www.rocketseat.com.br/) and free online courses. 
-* Developing with technologies: <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
-* I’m currently learning React at [Rocketseat](https://www.rocketseat.com.br/)
-* My [Resume](https://josevansantos.github.io/resume/)
+<div align="left">
+ <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Josevan Santos</h1>
+ <p>Learning programming at <a href="https://www.rocketseat.com.br/">Rocketseat </a> and free online courses.</p>
+<p>Developing with technologies</p>
+<br>
+<div>
+  <img align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><p>&nbsp;</p>
+  <img align="center" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><p>&nbsp;</p>
+  <img align="center" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><p>&nbsp;</p>
+  <img align="center" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <p>&nbsp;</p>
+  <img align="center" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><p>&nbsp;</p>
+  <img align="center" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><p>&nbsp;</p>
+</div>
+ <br>
 
-***
- <div align="center">
+ <p>My <a href="https://josevansantos.github.io/resume/">Resume</a></p>
+ 
+</div>
+
+<div align="center">
    <a href="https://github.com/josevansantos">
    <img  height="225em"  align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josevansantos&theme=github_dark"/>
  </a>
