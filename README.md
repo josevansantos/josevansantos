@@ -16,9 +16,6 @@
   <img align="center" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </spam>
  <br/>
-
- <p>My <a href="https://josevansantos.github.io/resume/">Resume</a></p>
- 
 </div>
 
 <div align="center">
