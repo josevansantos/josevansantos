@@ -4,7 +4,7 @@
 
 <div align="left">
  <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Josevan Santos</h1>
- <p>Learning programming at <a href="https://www.rocketseat.com.br/">Rocketseat </a> and free online courses.</p>
+ 
 <!-- <p>Developing with technologies</p> -->
 <br/>
 <!-- <spam align="center">
