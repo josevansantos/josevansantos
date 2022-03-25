@@ -1,7 +1,3 @@
-<div align="right">
- <img src="https://raw.githubusercontent.com/josevansantos/josevansantos/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-</div>
-
 <div align="left">
  <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Josevan Santos</h1>
  
