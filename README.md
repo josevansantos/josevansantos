@@ -1,5 +1,5 @@
 <div align="left">
- <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Josevan Santos</h1>
+ <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30" >, I'm Josevan Santos</h1>
  
 <!-- <p>Developing with technologies</p> -->
 <br/>
